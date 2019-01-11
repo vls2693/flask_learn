@@ -13,5 +13,5 @@ if __name__ == "__main__":
 
 
 
-
-###https://code.tutsplus.com/ru/tutorials/creating-a-web-app-from-scratch-using-python-flask-and-mysql--cms-22972
+#http://thewebland.net/development/python/flask/mega-tutorial-part-1-hello-world/
+#https://code.tutsplus.com/ru/tutorials/creating-a-web-app-from-scratch-using-python-flask-and-mysql--cms-22972
