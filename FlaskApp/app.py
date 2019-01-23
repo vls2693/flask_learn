@@ -8,7 +8,11 @@ def main():
 @app.route('/', methods=['POST'])
 def my_form_post():
     text = request.form['text']
-    processed_text = text.upper()
+    text2 = request.form['text2']
+    text2int = int(text)
+    text2int2 = int(text2)
+    summ = text2int + text2int2
+    processed_text = str(summ)
     return processed_text
 
 if __name__ == "__main__":
