@@ -25,3 +25,7 @@ if __name__ == "__main__":
 
 #http://thewebland.net/development/python/flask/mega-tutorial-part-1-hello-world/
 #https://code.tutsplus.com/ru/tutorials/creating-a-web-app-from-scratch-using-python-flask-and-mysql--cms-22972
+'''
+пример добавления строки в форму
+http://www.html.by/threads/13985-Dobavlenie-polej-formy-po-nazhatiju-na-knopku
+'''
